@@ -1,8 +1,7 @@
 {
   "index": "Summary",
   "introduction": "Introduction",
-  "get-started": "Get Started",
-  "features": "Features",
-  "themes": "Themes",
-  "advanced": "Advanced"
+  "preface": "Preface",
+  "foreword": "Foreword",
+  "chapter1": "Chapter 1"
 }
