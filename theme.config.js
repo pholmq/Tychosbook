@@ -1,7 +1,7 @@
 export default {
-  github: "https://github.com/pholmq/NextraTychosbookTest",
-  docsRepositoryBase: "https://github.com/shuding/nextra/blob/master",
-  titleSuffix: " – Nextra",
+  github: "https://github.com/pholmq/Tychosbook/tree/main/pages",
+  docsRepositoryBase: "https://github.com/pholmq/Tychosbook/tree/main/pages",
+  titleSuffix: " – ",
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">The Tychos</span>
@@ -63,5 +63,5 @@ export default {
   footer: true,
   footerEditLink: "Edit this page on GitHub",
   footerText: <>MIT {new Date().getFullYear()} © Nextra.</>,
-  unstable_faviconGlyph: "👋"
+  unstable_faviconGlyph: "🐌"
 };
