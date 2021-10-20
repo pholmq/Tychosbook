@@ -6,7 +6,7 @@ export default {
     <>
       <span className="mr-2 font-extrabold hidden md:inline">The TYCHOS</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        Our Geoaxial Binary System
+        Our Geoaxial Binary Solar System
       </span>
     </>
   ),
