@@ -1,7 +1,7 @@
 export default {
   github: "https://github.com/pholmq/Tychosbook/tree/main/pages",
   docsRepositoryBase: "https://github.com/pholmq/Tychosbook/tree/main/pages",
-  titleSuffix: " – ",
+  titleSuffix: "",
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">The Tychos</span>
