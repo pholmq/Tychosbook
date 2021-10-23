@@ -65,10 +65,10 @@ export default {
   footerText: (
     <>
       <form action="https://www.paypal.com/donate" method="post" target="_top">
-        <input type="hidden" name="hosted_button_id" value="JWLDDJA2DE8NL" />
+        <input type="hidden" name="hosted_button_id" value="J6PFBKCZ9FKRY" />
         <input
           type="image"
-          src="https://www.paypalobjects.com/en_US/SE/i/btn/btn_donateCC_LG.gif"
+          src="https://www.paypalobjects.com/en_US/IT/i/btn/btn_donateCC_LG.gif"
           border="0"
           name="submit"
           title="PayPal - The safer, easier way to pay online!"
@@ -77,11 +77,11 @@ export default {
         <img
           alt=""
           border="0"
-          src="https://www.paypal.com/en_SE/i/scr/pixel.gif"
+          src="https://www.paypal.com/en_IT/i/scr/pixel.gif"
           width="1"
           height="1"
         />
-      </form>
+      </form>{" "}
       Built with Nextra and Next.js
     </>
   ),
