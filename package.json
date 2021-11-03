@@ -11,6 +11,7 @@
   "author": "Simon Shack",
   "license": "MIT",
   "dependencies": {
+    "mdx-embed": "0.0.22",
     "next": "^11.0.1",
     "nextra": "^1.1.0",
     "nextra-theme-docs": "^1.2.2",
