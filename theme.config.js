@@ -61,7 +61,6 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  defaultMenuCollapsed: true,
   footerEditLink: "Edit this page on GitHub",
   footerText: (
     <>
