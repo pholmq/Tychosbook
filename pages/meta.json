@@ -1,9 +1,10 @@
 {
-  "index": "Summary",
-  "toc": "Table of Contents",
+  "index": "Table of Contents",
   "preface": "Preface",
   "foreword": "Foreword",
   "please-donate": "Please Donate",
+  "about": "About The Author",
+
   "chapters": "Chapters",
   "appendicies": "Appendicies"
 }
