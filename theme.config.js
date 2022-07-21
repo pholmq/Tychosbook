@@ -16,8 +16,14 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content=" " />
-      <meta name="og:description" content=" " />
+      <meta
+        name="description"
+        content="He who goes slowly goes well — and goes far (old Italian adage)"
+      />
+      <meta
+        name="og:description"
+        content="He who goes slowly goes well — and goes far (old Italian adage)"
+      />
       <meta name="twitter:card" content="summary_large_image" />
       <meta
         name="twitter:image"
