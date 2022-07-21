@@ -16,14 +16,23 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="Nextra: the Next.js site builder" />
-      <meta name="og:description" content="Nextra: the Next.js site builder" />
+      <meta name="description" content=" " />
+      <meta name="og:description" content=" " />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="twitter:site:domain" content="nextra.vercel.app" />
-      <meta name="twitter:url" content="https://nextra.vercel.app" />
-      <meta name="og:title" content="Nextra: Next.js static site generator" />
-      <meta name="og:image" content="https://nextra.vercel.app/og.png" />
+      <meta
+        name="twitter:image"
+        content="https://septclues.com/TYCHOS/TYCHOS_BOOK_COVER_2nd_EDITION_small.jpg"
+      />
+      <meta name="twitter:site:domain" content="book.tychos.space" />
+      <meta name="twitter:url" content="https://book.tychos.space" />
+      <meta
+        name="og:title"
+        content="The TYCHOS Our Geoaxial Binary Solar System"
+      />
+      <meta
+        name="og:image"
+        content="https://septclues.com/TYCHOS/TYCHOS_BOOK_COVER_2nd_EDITION_small.jpg"
+      />
       <meta name="apple-mobile-web-app-title" content="Nextra" />
       <link
         rel="apple-touch-icon"
