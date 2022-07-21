@@ -27,7 +27,7 @@ export default {
       <meta name="twitter:card" content="summary_large_image" />
       <meta
         name="twitter:image"
-        content="https://septclues.com/TYCHOS/TYCHOS_BOOK_COVER_2nd_EDITION_small.jpg"
+        content="http://septclues.com/TYCHOS/TYCHOS_BOOK_COVER_2nd_EDITION_small.jpg"
       />
       <meta name="twitter:site:domain" content="book.tychos.space" />
       <meta name="twitter:url" content="https://book.tychos.space" />
@@ -37,7 +37,7 @@ export default {
       />
       <meta
         name="og:image"
-        content="https://septclues.com/TYCHOS/TYCHOS_BOOK_COVER_2nd_EDITION_small.jpg"
+        content="http://septclues.com/TYCHOS/TYCHOS_BOOK_COVER_2nd_EDITION_small.jpg"
       />
       <meta name="apple-mobile-web-app-title" content="Nextra" />
       <link
