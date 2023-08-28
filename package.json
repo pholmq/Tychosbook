@@ -11,19 +11,11 @@
   "author": "Simon Shack",
   "license": "MIT",
   "dependencies": {
-    "mdx-embed": "0.0.22",
-    "next": "^11.0.1",
-    "nextra": "^1.1.0",
-    "nextra-theme-docs": "^1.2.2",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1"
-  },
-  "devDependencies": {
-    "prettier": "^2.0.5"
-  },
-  "prettier": {
-    "semi": false,
-    "singleQuote": true
+    "next": "^13.4.19",
+    "nextra": "^2.12.3",
+    "nextra-theme-docs": "^2.12.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "keywords": []
 }
