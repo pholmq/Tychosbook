@@ -11,6 +11,10 @@
   "author": "Simon Shack",
   "license": "MIT",
   "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.6",
+    "@mui/material": "^5.14.6",
     "next": "^13.4.19",
     "nextra": "^2.12.3",
     "nextra-theme-docs": "^2.12.3",

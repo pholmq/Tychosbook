@@ -1,3 +1,5 @@
+import ForumIcon from '@mui/icons-material/Forum';
+
 export default {
   github: "https://github.com/pholmq/Tychosbook/tree/main/pages",
   docsRepositoryBase: "https://github.com/pholmq/Tychosbook/tree/main/pages",
@@ -10,6 +12,13 @@ export default {
       </span>
     </>
   ),
+  project: {
+    link: "https://github.com/pholmq/Tychosbook"
+  },
+  chat: {
+    link: "https://forum.tychos.space/t/welcome-to-the-tychos-forum/7",
+    icon: <ForumIcon />
+  },
   head: (
     <>
       <meta name="msapplication-TileColor" content="#ffffff" />
