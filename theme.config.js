@@ -23,5 +23,8 @@ export default {
   footer: {
     text: <Footer />
   },
-  faviconGlyph: "🐌"
+  faviconGlyph: "🐌",
+  nextThemes: {
+    defaultTheme: 'dark'
+  }
 };
