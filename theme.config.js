@@ -4,8 +4,8 @@ export default {
   titleSuffix: "",
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">The TYCHOS</span>
-      <span className="text-gray-600 font-normal hidden md:inline">
+      <span style={{ marginRight: "0.5rem", fontWeight: "800" }}>The TYCHOS</span>
+      <span style={{ fontWeight: "400", color: "#4B5563" }}>
         Our Geoaxial Binary Solar System
       </span>
     </>
