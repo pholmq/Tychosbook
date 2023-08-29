@@ -3,7 +3,7 @@ import { Footer } from './components/Footer';
 import { Head } from './components/Head';
 
 export default {
-  docsRepositoryBase: "https://github.com/pholmq/Tychosbook/tree/main/pages",
+  docsRepositoryBase: "https://github.com/pholmq/Tychosbook/tree/main",
   logo: (
     <>
       <span style={{ marginRight: "0.5rem", fontWeight: "800" }}>The TYCHOS</span>
