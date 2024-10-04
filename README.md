@@ -1,3 +1,0 @@
-# Tychosbook
-
-Created with CodeSandbox
