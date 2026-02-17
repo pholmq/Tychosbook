@@ -1,4 +1,4 @@
-{
+export default {
   "1-a-brief-look": "Chapter 1 — A brief history of geo-heliocentrism",
   "2-about-binary-systems": "Chapter 2 — About binary / double star systems",
   "3-about-our-sun-mars": "Chapter 3 — About our Sun-Mars binary system",
