@@ -1,4 +1,5 @@
 import { Layout, Navbar } from 'nextra-theme-docs'
+import { Search } from 'nextra/components'
 import { getPageMap } from 'nextra/page-map'
 import ForumIcon from '@mui/icons-material/Forum'
 import { Footer } from '../components/Footer'
@@ -78,6 +79,7 @@ export default async function RootLayout({ children }) {
         link: "https://forum.tychos.space/t/welcome-to-the-tychos-forum/7",
         icon: <ForumIcon />
       }}
+      search={<Search placeholder="Search..." />}
     />
   )
 

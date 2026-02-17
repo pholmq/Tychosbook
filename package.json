@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "next dev",
     "start": "next start",
-    "build": "next build"
+    "build": "next build",
+    "postbuild": "npx pagefind --site .next/server/app --output-path public/_pagefind"
   },
   "author": "Simon Shack",
   "license": "MIT",
@@ -21,5 +22,8 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
-  "keywords": []
+  "keywords": [],
+  "devDependencies": {
+    "pagefind": "^1.4.0"
+  }
 }
