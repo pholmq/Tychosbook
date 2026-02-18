@@ -1,4 +1,4 @@
-{
+export default {
   "index": "Table of Contents",
   "foreword": "Foreword",
   "preface": "Preface",
