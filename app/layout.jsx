@@ -2,6 +2,7 @@ import { Layout, Navbar } from 'nextra-theme-docs'
 import { SearchWrapper } from '../components/SearchWrapper'
 //Note. No matter what I do the text in the search widget can be changed or 
 //search turned off
+import { Head } from 'nextra/components'
 import { getPageMap } from 'nextra/page-map'
 import ForumIcon from '@mui/icons-material/Forum'
 import { Footer } from '../components/Footer'
@@ -87,6 +88,7 @@ export default async function RootLayout({ children }) {
 
   return (
     <html lang="en" suppressHydrationWarning>
+      <Head />
       <body>
         <Layout
           docsRepositoryBase="https://github.com/pholmq/Tychosbook/tree/main"
