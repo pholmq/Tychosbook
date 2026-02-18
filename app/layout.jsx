@@ -79,7 +79,7 @@ export default async function RootLayout({ children }) {
         link: "https://forum.tychos.space/t/welcome-to-the-tychos-forum/7",
         icon: <ForumIcon />
       }}
-      search={<SearchWrapper />}
+      // search={<SearchWrapper />}
     />
   )
 
